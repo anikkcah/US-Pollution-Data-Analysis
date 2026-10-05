@@ -39,7 +39,11 @@ project  <br>
 
 ## Dashboard Preview
 
-![Project Image](visuals/us_data.gif) <br>
+![Project Image](visuals/us-data.png) <br>
+![Project Image](visuals/us-data-2.png) <br>
+![Project Image](visuals/us-data-3.png) <br>
+![Project Image](visuals/us-data-4.png) <br>
+![Project Image](visuals/us-data-5.png)
 
 ## Contributing
 
